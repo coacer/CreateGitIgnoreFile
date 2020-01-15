@@ -11,3 +11,6 @@ $ chmod 744 index.js
 ```
 $ ./index.js rails vue ...
 ```
+
+## References
+API: https://www.gitignore.io/
